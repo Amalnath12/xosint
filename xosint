@@ -34,7 +34,6 @@ from datetime import datetime
 import phonenumbers
 from phonenumbers import geocoder
 import opencage
-import folium
 from bs4 import BeautifulSoup as bs
 #29 modules
 
